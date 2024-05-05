@@ -1,0 +1,28 @@
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\bin\Debug\net8.0-windows\Gold's Gym.exe
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\bin\Debug\net8.0-windows\Gold's Gym.deps.json
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\bin\Debug\net8.0-windows\Gold's Gym.runtimeconfig.json
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\bin\Debug\net8.0-windows\Gold's Gym.dll
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\bin\Debug\net8.0-windows\Gold's Gym.pdb
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold_s_Gym.Form1.resources
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold_s_Gym.Properties.Resources.resources
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold's Gym.csproj.GenerateResource.cache
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold's Gym.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold's Gym.AssemblyInfoInputs.cache
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold's Gym.AssemblyInfo.cs
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold's Gym.csproj.CoreCompileInputs.cache
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold's Gym.dll
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\refint\Gold's Gym.dll
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold's Gym.pdb
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold's Gym.genruntimeconfig.cache
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\ref\Gold's Gym.dll
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold_s_Gym.New_Member.resources
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold's Gym.csproj.AssemblyReference.cache
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold's Gym.csproj.Up2Date
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold_s_Gym.Search_Member.resources
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold_s_Gym.Delete_Member.resources
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold_s_Gym.Equipments.resources
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold_s_Gym.Equipment_Details.resources
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold_s_Gym.Login.resources
+D:\C# PROGRAMMING\Gold's Gym\Gold's Gym\obj\Debug\net8.0-windows\Gold_s_Gym.pic.resources

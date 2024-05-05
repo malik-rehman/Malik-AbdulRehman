@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|d:\\c# programming\\gold\u0027s gym\\gold\u0027s gym\\equipment_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|solutionrelative:gold\u0027s gym\\equipment_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|D:\\C# PROGRAMMING\\Gold\u0027s Gym\\gold\u0027s gym\\equipment_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|solutionrelative:gold\u0027s gym\\equipment_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|D:\\C# PROGRAMMING\\Gold\u0027s Gym\\gold\u0027s gym\\equipments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|solutionrelative:gold\u0027s gym\\equipments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|d:\\c# programming\\gold\u0027s gym\\gold\u0027s gym\\equipments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|solutionrelative:gold\u0027s gym\\equipments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|d:\\c# programming\\gold\u0027s gym\\gold\u0027s gym\\delete_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|solutionrelative:gold\u0027s gym\\delete_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|D:\\C# PROGRAMMING\\Gold\u0027s Gym\\gold\u0027s gym\\delete_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|solutionrelative:gold\u0027s gym\\delete_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|d:\\c# programming\\gold\u0027s gym\\gold\u0027s gym\\search_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|solutionrelative:gold\u0027s gym\\search_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|d:\\c# programming\\gold\u0027s gym\\gold\u0027s gym\\search_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|solutionrelative:gold\u0027s gym\\search_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|d:\\c# programming\\gold\u0027s gym\\gold\u0027s gym\\new member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|solutionrelative:gold\u0027s gym\\new member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|D:\\C# PROGRAMMING\\Gold\u0027s Gym\\gold\u0027s gym\\new member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|solutionrelative:gold\u0027s gym\\new member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|d:\\c# programming\\gold\u0027s gym\\gold\u0027s gym\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|solutionrelative:gold\u0027s gym\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|d:\\c# programming\\gold\u0027s gym\\gold\u0027s gym\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|solutionrelative:gold\u0027s gym\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|d:\\c# programming\\gold\u0027s gym\\gold\u0027s gym\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|solutionrelative:gold\u0027s gym\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|D:\\C# PROGRAMMING\\Gold\u0027s Gym\\gold\u0027s gym\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|solutionrelative:gold\u0027s gym\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|d:\\c# programming\\gold\u0027s gym\\gold\u0027s gym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|solutionrelative:gold\u0027s gym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|d:\\c# programming\\gold\u0027s gym\\gold\u0027s gym\\gold\u0027s gym.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2B5A8C89-AE9F-4BB5-BF11-C30D281A6622}|Gold\u0027s Gym\\Gold\u0027s Gym.csproj|solutionrelative:gold\u0027s gym\\gold\u0027s gym.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Program.cs",
+              "RelativeDocumentMoniker": "Gold\u0027s Gym\\Program.cs",
+              "ToolTip": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Program.cs",
+              "RelativeToolTip": "Gold\u0027s Gym\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:30:21.965Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Equipment_Details.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Equipment_Details.cs",
+              "RelativeDocumentMoniker": "Gold\u0027s Gym\\Equipment_Details.cs",
+              "ToolTip": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Equipment_Details.cs",
+              "RelativeToolTip": "Gold\u0027s Gym\\Equipment_Details.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:27:08.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Search_Member.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Search_Member.cs",
+              "RelativeDocumentMoniker": "Gold\u0027s Gym\\Search_Member.cs",
+              "ToolTip": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Search_Member.cs",
+              "RelativeToolTip": "Gold\u0027s Gym\\Search_Member.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:46:05.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete_Member.cs [Design]",
+              "DocumentMoniker": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Delete_Member.cs",
+              "RelativeDocumentMoniker": "Gold\u0027s Gym\\Delete_Member.cs",
+              "ToolTip": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Delete_Member.cs [Design]",
+              "RelativeToolTip": "Gold\u0027s Gym\\Delete_Member.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:55:54.908Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete_Member.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Delete_Member.cs",
+              "RelativeDocumentMoniker": "Gold\u0027s Gym\\Delete_Member.cs",
+              "ToolTip": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Delete_Member.cs",
+              "RelativeToolTip": "Gold\u0027s Gym\\Delete_Member.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:47:34.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Equipment_Details.cs [Design]",
+              "DocumentMoniker": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Equipment_Details.cs",
+              "RelativeDocumentMoniker": "Gold\u0027s Gym\\Equipment_Details.cs",
+              "ToolTip": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Equipment_Details.cs [Design]",
+              "RelativeToolTip": "Gold\u0027s Gym\\Equipment_Details.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:52:48.793Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Equipments.cs [Design]",
+              "DocumentMoniker": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Equipments.cs",
+              "RelativeDocumentMoniker": "Gold\u0027s Gym\\Equipments.cs",
+              "ToolTip": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Equipments.cs [Design]",
+              "RelativeToolTip": "Gold\u0027s Gym\\Equipments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:22:09.541Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equipments.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Equipments.cs",
+              "RelativeDocumentMoniker": "Gold\u0027s Gym\\Equipments.cs",
+              "ToolTip": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Equipments.cs",
+              "RelativeToolTip": "Gold\u0027s Gym\\Equipments.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAgwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:48:20.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Search_Member.cs [Design]",
+              "DocumentMoniker": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Search_Member.cs",
+              "RelativeDocumentMoniker": "Gold\u0027s Gym\\Search_Member.cs",
+              "ToolTip": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Search_Member.cs [Design]",
+              "RelativeToolTip": "Gold\u0027s Gym\\Search_Member.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:22:49.699Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "New Member.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\New Member.cs",
+              "RelativeDocumentMoniker": "Gold\u0027s Gym\\New Member.cs",
+              "ToolTip": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\New Member.cs",
+              "RelativeToolTip": "Gold\u0027s Gym\\New Member.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAkwMEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:15:24.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Login.cs",
+              "RelativeDocumentMoniker": "Gold\u0027s Gym\\Login.cs",
+              "ToolTip": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Login.cs*",
+              "RelativeToolTip": "Gold\u0027s Gym\\Login.cs*",
+              "ViewState": "AQIAABgAAAAAAAAAAAA3wDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:17:10.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Form1.cs",
+              "RelativeDocumentMoniker": "Gold\u0027s Gym\\Form1.cs",
+              "ToolTip": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Form1.cs",
+              "RelativeToolTip": "Gold\u0027s Gym\\Form1.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAYwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:17:34.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Form1.cs",
+              "RelativeDocumentMoniker": "Gold\u0027s Gym\\Form1.cs",
+              "ToolTip": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Form1.cs [Design]",
+              "RelativeToolTip": "Gold\u0027s Gym\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:27:15.466Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "New Member.cs [Design]",
+              "DocumentMoniker": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\New Member.cs",
+              "RelativeDocumentMoniker": "Gold\u0027s Gym\\New Member.cs",
+              "ToolTip": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\New Member.cs [Design]",
+              "RelativeToolTip": "Gold\u0027s Gym\\New Member.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:48:25.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Login.cs",
+              "RelativeDocumentMoniker": "Gold\u0027s Gym\\Login.cs",
+              "ToolTip": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Login.cs [Design]*",
+              "RelativeToolTip": "Gold\u0027s Gym\\Login.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:05:54.985Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Gold\u0027s Gym",
+              "DocumentMoniker": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Gold\u0027s Gym.csproj",
+              "RelativeDocumentMoniker": "Gold\u0027s Gym\\Gold\u0027s Gym.csproj",
+              "ToolTip": "D:\\C# PROGRAMMING\\Gold\u0027s Gym\\Gold\u0027s Gym\\Gold\u0027s Gym.csproj",
+              "RelativeToolTip": "Gold\u0027s Gym\\Gold\u0027s Gym.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T18:29:41.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
